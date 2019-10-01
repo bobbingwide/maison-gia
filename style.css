@@ -8,3 +8,50 @@ Version: 1.0.0
 Text Domain: maison
 Template: maison
 */
+
+.edgtf-title .edgtf-title-holder .edgtf-page-title {
+    position: static;
+    display: block;
+    /* vertical-align: bottom; */
+    margin: 172px 0 0 22.5px;
+}
+
+.admin-bar .edgtf-title .edgtf-title-holder .edgtf-page-title {
+    margin-top: 140px;
+}
+
+.edgtf-title {
+    height: 200px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .edgtf-title .edgtf-title-holder .edgtf-page-title {
+        margin: 0px auto;
+    }
+
+    .edgtf-title {
+        height: auto;
+        min-height: 100px;
+    }
+    .admin-bar .edgtf-title .edgtf-title-holder .edgtf-page-title {
+        margin-top: 0px;
+    }
+}
+
+
+
+
+.edgtf-title {
+    background-color: rgba(0,0,0,0);
+}
+
+/*
+.edgtf-header-vertical .edgtf-vertical-area-background {
+    width: 280px;
+}
+*/
+.modal-style.style-1 .awsm-modal-items-main {
+    max-width: 800px;
+    margin: 0 auto 0 312px;
+}
+
