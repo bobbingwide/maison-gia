@@ -1,5 +1,7 @@
 <?php
 
+include_once __DIR__ . '/includes/nav-menu/top-navigation-walker.php';
+
 /*** Child Theme Function  ***/
 
 function maison_edge_child_theme_enqueue_scripts() {
@@ -19,6 +21,7 @@ function maison_child_filter_title_area_height_params( $params ) {
     $params['title_background_color'] = null;
     $params['title_tag'] = 'h1';
     $params['title_color'] = 'color:#181818;';
+    $params['enable_breadcrumbs'] = false;
     return $params;
 }
 
