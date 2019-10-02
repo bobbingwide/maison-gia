@@ -5,7 +5,7 @@
 * Tags: Maison, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images
 * Requires at least: 5.2.3
 * Tested up to: 5.2.3
-* Version: 1.0.0
+* Version: 1.0.1
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,7 @@ Maison Child Theme for GIA Equation
 Maison GIA is a child theme of the Maison theme developed for GIA Equation. giaequation.co.uk
 
 - Vertical header with vertical logo and drop down menu
+- Drop down menu expands automatically where necessary
 - Title aligns with the bottom of the vertical logo
 - Responsive
 
@@ -28,6 +29,9 @@ Maison GIA is a child theme of the Maison theme developed for GIA Equation. giae
 
 
 ## Change Log 
+# 1.0.1 
+* Fixed: Issue #3 Ensure the child menu item is visible
+
 # 1.0.0 
 * Changed: Issue #1 Updated style to position the title according to requirements
 * Changed: Issue #1 Added title.php template to reduce complexity
