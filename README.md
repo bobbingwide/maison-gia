@@ -1,8 +1,8 @@
-# genesis-hm 
-![screenshot](https://raw.githubusercontent.com/bobbingwide/genesis-hm/master/screenshot.png)
+# maison-gia 
+![screenshot](https://raw.githubusercontent.com/bobbingwide/maison-gia/master/screenshot.png)
 * Contributors: bobbingwide
 * Donate link: https://www.oik-plugins.com/oik/oik-donate/
-* Tags: genesis, image, one-column, two-columns, sidebars, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments
+* Tags: Maison, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images
 * Requires at least: 5.2.3
 * Tested up to: 5.2.3
 * Version: 1.0.0
