@@ -27,6 +27,11 @@ Template: maison
     height: 232px;
 }
 
+.modal-style.style-1 .awsm-modal-items-main {
+    max-width: 800px;
+    margin: 0 auto 0 312px;
+}
+
 @media only screen and (max-width: 1024px) {
     .edgtf-title .edgtf-title-holder .edgtf-page-title {
         margin: 0px auto;
@@ -38,6 +43,9 @@ Template: maison
     }
     .admin-bar .edgtf-title .edgtf-title-holder .edgtf-page-title {
         margin-top: 0px;
+    }
+    .modal-style.style-1 .awsm-modal-items-main {
+        margin: 0px auto 0px auto;
     }
 }
 
@@ -53,8 +61,5 @@ Template: maison
     width: 280px;
 }
 */
-.modal-style.style-1 .awsm-modal-items-main {
-    max-width: 800px;
-    margin: 0 auto 0 312px;
-}
+
 
