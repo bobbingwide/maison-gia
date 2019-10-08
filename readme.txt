@@ -4,7 +4,7 @@ Donate link: https://www.oik-plugins.com/oik/oik-donate/
 Tags: Maison, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images
 Requires at least: 5.2.3
 Tested up to: 5.2.3
-Version: 1.0.1
+Version: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ Maison GIA is a child theme of the Maison theme developed for GIA Equation. giae
 
 
 == Change Log ==
+= 1.0.2 = 
+Fixed: Issue #2 don't apply left margin when vertical menu not being used
+
 = 1.0.1 = 
 * Fixed: Issue #3 Ensure the child menu item is visible
 
